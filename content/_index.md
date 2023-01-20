@@ -46,16 +46,16 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: Handsome
           description: 90%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
+        - name: Microbiomics
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Metabolomics
+          description: 70%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -74,7 +74,7 @@ sections:
           company: SZN
           company_url: ''
           company_logo: org-gc
-          location: California
+          location: Naples, IT
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
@@ -87,7 +87,7 @@ sections:
           company: University X
           company_url: ''
           company_logo: org-x
-          location: California
+          location: Pozzuoli, IT
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
