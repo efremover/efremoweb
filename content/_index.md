@@ -240,7 +240,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Contact information.
       # Contact (add or remove contact options as necessary)
       email: test@example.org
       phone: 888 888 88 88
@@ -260,11 +260,11 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
+          link: 'https://twitter.com/jana_efremova'
+        # - icon: skype
+        #   icon_pack: fab
+        #   name: Skype Me
+        #   link: 'skype:echo123?call'
         - icon: video
           icon_pack: fas
           name: Zoom Me
