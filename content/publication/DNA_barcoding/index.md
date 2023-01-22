@@ -1,8 +1,11 @@
 ---
 title: "DNA Barcoding Procedures for Taxonomical and Phylogenetic Studies in Marine Animals: Porifera as a Case Study."
 authors:
-- admin
-   Jana Efremova
+- Laura Núñez-Pons
+- Valerio Mazzella
+- Francesca Rispo
+- Jana Efremova
+- Barbara Calcinai
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -19,23 +22,25 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Marine Genomics, Methods and Protocols"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: DNA barcoding is a versatile approach that has revolutionized taxonomy and other akin topics in biology and ecology, due to its simplicity and relatively costless procedures. The method consists in the production of one or a few amplicons from informative genetic regions via Sanger sequencing. These markers are selected because they tend to evolve at a similar pace as speciation, allowing to discriminate organismal species. The applicability of this technique is here portrayed for the taxonomical identification of marine sponges (phylum Porifera) as an example.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: DNA barcoding protocol
 tags:
-- Source Themes
+- DNA barcoding
+- PCR amplicon purification
+  
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://link.springer.com/protocol/10.1007/978-1-0716-2313-8_10
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -46,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Marine Genomics Book Cover, Springer'
   focal_point: ""
   preview_only: false
 
