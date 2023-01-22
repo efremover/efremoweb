@@ -38,7 +38,7 @@ links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
-#  url: https://twitter.com/georgecushen
+#  url: https://twitter.com/Jana91205020
 url_code: ""
 url_pdf: ""
 url_slides: ""
