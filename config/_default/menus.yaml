@@ -23,7 +23,7 @@ main:
 #    url: '#featured'
 #    weight: 60
   - name: Sci-comm
-    url: '#science communication'
+    url: '#science-communication'
     weight: 70
   - name: Contact
     url: '#contact'
