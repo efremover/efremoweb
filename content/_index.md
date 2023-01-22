@@ -46,17 +46,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: Handsome
-          description: 90%
+        - name: Bioinformatics
+          description: Microbiomics with R & Qiime2
           icon: r-project
           icon_pack: fab
         - name: Microbiomics
           description: 100%
-          icon: chart-line
+          icon: dna
           icon_pack: fas
-        - name: Metabolomics
+        - name: Biochemistry
           description: 70%
-          icon: camera-retro
+          icon: flask-vial
           icon_pack: fas
   - block: experience
     content:
