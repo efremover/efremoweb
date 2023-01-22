@@ -186,14 +186,14 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
   - block: collection
     id: featured
     content:
@@ -226,6 +226,16 @@ sections:
       filters:
         folders:
           - event
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
+    id: science-communication
+    content:
+      title: Science communication
+      filters:
+        folders:
+          - science-communication
     design:
       columns: '2'
       view: compact
