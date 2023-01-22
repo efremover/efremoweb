@@ -1,7 +1,7 @@
 ---
 title: Horizontal and vertical symbiont transmission in marine sponges
 
-subtitle:
+subtitle: test
 
 # Summary for listings and search engines
 summary: Sponges shape their microbial communities by acquiring symbionts through two different strategies – horizontal and vertical symbiont transmission. Vertical transmission implies that symbionts are inherited through parental gametes or brooded embryos, while horizontal transmission usually occurs through acquisition from the surrounding environment. There are generally two vertical transmission strategies from parental sponges into their offspring. Symbionts may be either transferred within eggs in oviparous sponges, or within larvae in viviparous sponges. 
