@@ -55,7 +55,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/jana_efremova
+    link: https://twitter.com/Jana91205020
     label: Follow me on Twitter
     display:
       header: true
