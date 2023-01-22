@@ -42,4 +42,3 @@ categories:
   - Sci-comm
 ---
 
-the quick fox jumped over the lazy dog
