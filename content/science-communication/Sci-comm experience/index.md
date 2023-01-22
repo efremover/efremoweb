@@ -31,6 +31,7 @@ image:
   preview_only: false
 
 authors:
+  - admin
   - Jana Efremova
 
 tags:
