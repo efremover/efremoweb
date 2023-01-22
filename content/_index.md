@@ -73,7 +73,7 @@ sections:
         - title: Doctoral Researcher
           company: SZN
           company_url: ''
-          company_logo: 'SZN_logo.png'
+          company_logo: 'logos/SZN_logo.png'
           location: Naples, IT
           date_start: '2021-01-01'
           date_end: ''
