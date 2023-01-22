@@ -1,18 +1,20 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Horizontal and vertical symbiont transmission in marine sponges
+
+# subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Sponges shape their microbial communities by acquiring symbionts through two different strategies – horizontal and vertical symbiont transmission. Vertical transmission implies that symbionts are inherited through parental gametes or brooded embryos, while horizontal transmission usually occurs through acquisition from the surrounding environment. There are generally two vertical transmission strategies from parental sponges into their offspring. Symbionts may be either transferred within eggs in oviparous sponges, or within larvae in viviparous sponges. 
+Different symbiont transmission strategies can provide beneficial traits for adaptability or acclimatization of sponge holobionts to a changing environment. While vertically transmitted microbes represent hereditable traits, environmentally acquired symbionts might provide acclimatization in the same generation.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2023-01-22T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+#lastmod: '2020-12-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -29,21 +31,20 @@ image:
   preview_only: false
 
 authors:
-  - admin
-  - 吳恩達
+  - Jana Efremova
 
 tags:
-  - Academic
-  - 开源
+  - Symbiont transmission
+  - Microbiome restructuring
+  - Environmental adaptation
 
-categories:
-  - Demo
-  - 教程
+# categories:
+#   - Demo
 ---
 
 ```python
-import libr
-print('hello')
+# import libr
+# print('hello')
 ```
 
 ## Overview
