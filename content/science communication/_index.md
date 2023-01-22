@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Science Communication
 cms_exclude: true
 
 # View.

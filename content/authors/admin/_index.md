@@ -24,7 +24,7 @@ organizations:
     url: https://www.open.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include metabolomics, micrbiomics, and climatic change in marine systems.
+bio: My research interests include metabolomics, microbiomics, and climatic change in marine systems.
 
 # Interests to show in About widget
 interests:
@@ -82,5 +82,5 @@ email: ''
 highlight_name: true
 ---
 
-Jana Efremova is a PhD student researching the impact of ocean acidification, a mainly anthropogenic driven environmental stressors, on marine ecosystem stabilities at the Stazione Zoologica Anton Dohrn. In particular, she analyzes the microbial and chemical ecology of marine sponges and their impact on nutritional cycles. Her research interests include ecology, metabolism, biochemistry and nutrition. Her academic specialisation is focused on nutritional sciences and biochemistry, however the current PhD position allows her a interdisciplinary integration of her knowledge and a contribution to Climate Change research.
+I am a PhD student researching the impact of ocean acidification, a mainly anthropogenic driven environmental stressors, on marine ecosystem stabilities at the Stazione Zoologica Anton Dohrn. In particular, she analyzes the microbial and chemical ecology of marine sponges and their impact on nutritional cycles. Her research interests include ecology, metabolism, biochemistry and nutrition. Her academic specialisation is focused on nutritional sciences and biochemistry, however the current PhD position allows her a interdisciplinary integration of her knowledge and a contribution to Climate Change research.
 {style="text-align: justify;"}
