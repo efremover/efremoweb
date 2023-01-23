@@ -3,7 +3,7 @@ title: Symbiont Transmission in Marine Sponges
 subtitle: Horizontal and vertical transmission modes
 
 # Summary for listings and search engines
-summary: 
+summary: Graphical Illustration by Jana Efremova. Sponges shape their microbial communities by acquiring symbionts through two different strategies – horizontal and vertical symbiont transmission.
 
 # Link this post with a project
 projects: []
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Graphical Illustration by Jana Efremova. (Software: Biorender and Illustrator)'
+  caption: ''
   focal_point: Smart
 
   preview_only: false
