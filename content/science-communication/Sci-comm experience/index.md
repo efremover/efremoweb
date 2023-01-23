@@ -25,7 +25,6 @@ featured: false
 image:
   caption: ''
   focal_point: Smart
-  placement: 2
   preview_only: false
 
 authors:
