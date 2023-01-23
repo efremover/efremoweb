@@ -92,6 +92,16 @@ sections:
           date_end: '2019-06-30'
           description: |2-
               I studied advanced concepts of molecular biology and biochemistry and applied interdisciplinary methods including cell biology, bioinformatics, analytical chemistry and molecular biology.
+                           * Supervising students
+        - title: Nutritional Sciences (Bachelor of Science)
+          company: Friedrich-Schiller-Universität Jena (Germany)
+          company_url: ''
+          #company_logo: 'media/logos/FSU.png'
+          location: Jena, GE
+          date_start: '2013-10-01'
+          date_end: '2016-06-30'
+          description: |2-
+              Nutrition
     design:
       columns: '2'
   # - block: accomplishments
