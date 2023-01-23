@@ -97,7 +97,9 @@ sections:
           date_end: '2019-06-30'
           description: |2-
               I studied advanced concepts of molecular biology and biochemistry and applied interdisciplinary methods including cell biology, bioinformatics, analytical chemistry and molecular biology. Final Grade 1.3 (A; distinction) I supervised a biochemistry course for nutrional science students.
+
                Responsibilities included:
+
               * Preparing laboratory experiments
               * Supervising students during lab work
               * Teaching underlying mechanisms of different analytical techniques
@@ -107,7 +109,7 @@ sections:
           #company_logo: 'media/logos/FSU.png'
           location: Jena, GE
           date_start: '2013-10-01'
-          date_end: '2016-06-30'
+          date_end: '2016-07-30'
           description: |2-
               During the BSc Nutritional Sciences I studied the basics of natural sciences, biomedicine, biochemistry and molecular biology, whereby I specialised in molecular nutrition. I conducted my bachelor thesis in the field of cell biology at the Center for Molecular Biomedicine (Jena) and an international collaboration with the computational department at the Benemerita-University of Puebla (Mexico), where I was able to acquire first experience in bioinformatic analyses. Aim of my thesis project was to reveal if vanilloid derivatives are possible inhibitors of the polo-like kinase 1, inducing cell-cycle arrest and reducing cancer cell activity. Final Grade 1.5 (A; distinction)
 
