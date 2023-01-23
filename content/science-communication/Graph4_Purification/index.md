@@ -5,7 +5,6 @@ subtitle: High-throughput purification of PCR amplicons using paramagnetic beads
 
 # Summary for listings and search engines
 summary: Graphical Illustration by Jana Efremova using Biorender and Illustrator. This illustration is published as part of a book chapter. 
-Link to publication http://dx.doi.org/10.1007/978-1-0716-2313-8_10
 
 # Link this post with a project
 projects: []
