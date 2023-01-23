@@ -24,12 +24,12 @@ organizations:
     url: https://www.open.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include metabolomics, microbiomics, and climatic change in marine systems.
+bio: My research interests include microbiomics, metabolomics and their impact on organismal health.
 
 # Interests to show in About widget
 interests:
+  - Microbiome and Health
   - Metabolomics
-  - Microbiomics
   - Nutrition Science
 
 # Education to show in About widget
