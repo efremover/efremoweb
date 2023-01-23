@@ -4,7 +4,7 @@ title: 8th International Conference on Microbial Communication for young scienti
 event: MICOM - Friedrich Schiller University - Jena
 event_url: https://www.micom.uni-jena.de/
 
-location: Online, Jena (Germany)
+location: Remote, Jena (Germany)
 #address:
 #  street: Accademia di Medicina
 #  city: Turin
