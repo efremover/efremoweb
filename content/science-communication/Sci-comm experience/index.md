@@ -59,16 +59,3 @@ Different symbiont transmission strategies can provide beneficial traits for ada
 5. Nyholm, S.V., McFall-Ngai, M., 2004. The winnowing: establishing the squid–vibrio symbiosis. Nat Rev Microbiol 2, 632–642. https://doi.org/10.1038/nrmicro957
 
 6. Schmitt, S., Angermeier, H., Schiller, R., Lindquist, N., Hentschel, U., 2008. Molecular Microbial Diversity Survey of Sponge Reproductive Stages and Mechanistic Insights into Vertical Transmission of Microbial Symbionts. Applied and Environmental Microbiology 74, 7694–7708. https://doi.org/10.1128/AEM.00878-08
-
-## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/sponsor/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/sponsor/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
-
