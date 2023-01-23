@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: ''
+  caption: 'Graphical Illustration by Jana Efremova. (Software: Biorender and Illustrator)'
   focal_point: Smart
 
   preview_only: false
