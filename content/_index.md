@@ -262,6 +262,17 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: collection
+    id: courses
+    content:
+      title: Courses and Workshops
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
+
   - block: tag_cloud
     content:
       title: Popular Topics
