@@ -20,7 +20,7 @@ main:
     url: '#publication'
     weight: 50
  - name: Teaching
-   url: '#featured'
+   url: '#teaching'
    weight: 60
   - name: Sci-comm
     url: '#science-communication'
