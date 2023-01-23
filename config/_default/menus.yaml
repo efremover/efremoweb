@@ -22,7 +22,7 @@ main:
 #  - name: Teaching
 #    url: '#teaching'
 #    weight: 60
-  - name: Sci-comm
+  - name: SciCom
     url: '#science-communication'
     weight: 70
   - name: Contact
