@@ -38,8 +38,9 @@ tags:
   - Microbiome
 
 categories:
-  - Demo
-  - 教程
+  - Science Communication
+  - Graphics
+
 ---
 
 ## Symbiont transmission in sponges
