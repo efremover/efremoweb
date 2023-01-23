@@ -265,10 +265,10 @@ sections:
   - block: collection
     id: courses
     content:
-      title: Courses and Workshops
+      title: Certificates
       filters:
         folders:
-          - courses
+          - certificates
     design:
       columns: '2'
       view: compact
