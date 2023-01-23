@@ -1,6 +1,12 @@
 ---
 title: Teaching Portfolio - Jana Efremova
-cms_exclude: true
+summary: Here we describe how to add a page to your site.
+date: "2022-01-21T00:00:00Z"
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: true  # Show author profile?
+comments: false  # Show comments?
 
 # View.
 #   1 = List
@@ -14,6 +20,7 @@ header:
   caption: ""
   image: ""
 ---
+
 ## Supervision
 
 During my M.Sc. and PhD I co-supervised Bachelor and Master students, as well as interns, covering laboratory activities including analytical chemistry techniques and molecular biology. Main laboratory activities included the chemical extraction of marine invertebrates, Thin-Layer-Chromatography, HPLC, and sample preparation for NMR and LC-MS analyses. Molecular biology techniques included mainly PCR, purification of PCR products and genomic sequencing for metabarcoding. I further supported students in conducting microbiome data analyses, using the QIIME2 pipeline and R-studio.
