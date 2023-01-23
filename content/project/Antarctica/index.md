@@ -12,7 +12,7 @@ date: '2023-01-22T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Antarctica
+  caption: Photo by Andrea Prófumo
   focal_point: Smart
 
 links:
