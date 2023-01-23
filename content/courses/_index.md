@@ -1,5 +1,5 @@
 ---
-title: Courses and Workshops
+title: Certificates
 cms_exclude: true
 
 # View.
