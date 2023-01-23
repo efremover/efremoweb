@@ -46,7 +46,7 @@ sections:
     content:
       title: Skills
       items:
-        - name: Bioinformatics
+        - name: Microbiome Bioinformatics
           description: Microbiomics with R & Qiime2
           icon: r-project
           icon_pack: fab
@@ -78,14 +78,15 @@ sections:
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
-              I studied the microbial and metabolic dynamics of sponges under Ocean Acidification. I sampled two sponge species in a CO2 vent and a control site on Ischia Island (Italy) by scuba diving and then analyzed their microbial communities via Illumina Next-Generation-Sequencing. After conducting a NMR-based metabolomics workflow with OPLS-DA, I correlated microbiome and metabolome data. During a international collaboration with the Max-Planck-Institute for Marine Microbiology in Bremen (Germany), I developed a new underwater sampling method.
-              Responsibilities include:
+              I studied the microbial and metabolic dynamics of sponges under Ocean Acidification. I sampled two sponge species in a CO2 vent and a control site on Ischia Island (Italy) by scuba diving and then analyzed their microbial communities via Illumina Next-Generation-Sequencing. After conducting a NMR-based metabolomics workflow with OPLS-DA, I correlated microbiome and metabolome data. During an international collaboration with the Max-Planck-Institute for Marine Microbiology in Bremen (Germany), I developed a new underwater sampling method. I performed succesfully my viva examination and currently awaiting the degree.
+              
+              Responsibilities included:
 
               * Managing research project
               * International collaborations
               * Design of a new underwater sampling technique (patent pending)
               * Raise funding
-              * Scuba Diving for sampling and in situ experiments
+              * Scuba Diving for sampling and in situ experimentation
               * Supervising students
         - title: Biochemistry (Master of Science)
           company: Friedrich-Schiller-Universität Jena (Germany)
