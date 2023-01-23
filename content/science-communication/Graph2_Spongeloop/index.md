@@ -3,7 +3,7 @@ title: The Sponge Loop
 subtitle: Marine nutrient recycling to higher trophic levels
 
 # Summary for listings and search engines
-summary: Graphical Illustration by Jana Efremova using Biorender and Illustrator
+summary: Sponges (Porifera) in particular, are able to significantly affect seawater biogeochemistry via the so-called ‘Sponge Loop’. Graphical Illustration by Jana Efremova using Biorender and Illustrator.
 
 # Link this post with a project
 projects: []

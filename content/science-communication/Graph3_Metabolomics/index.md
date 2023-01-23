@@ -4,7 +4,7 @@ title: Principles of NMR metabolomics
 subtitle:
 
 # Summary for listings and search engines
-summary: Graphical Illustration by Jana Efremova using Biorender and Illustrator
+summary: NMR Metabolomics principle - from chemical extraction to metabolic fingerprinting. Graphical Illustration by Jana Efremova using Biorender and Illustrator.
 
 # Link this post with a project
 projects: []
