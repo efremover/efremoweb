@@ -71,7 +71,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Doctoral Researcher
-          company: SZN
+          company: Stazione Zoologica Anton Dohrn
           company_url: ''
           #company_logo: 'media/logos/SZN_logo.png'
           location: Naples, IT
@@ -83,7 +83,6 @@ sections:
               * Conducting research
               * Managing project
               * Supervising students
-  
         - title: Biochemistry (Master of Science)
           company: Friedrich-Schiller-Universität Jena (Germany)
           company_url: 'https://www.uni-jena.de/en/msc-biochemistry'
@@ -93,7 +92,6 @@ sections:
           date_end: '2019-06-30'
           description: |2-
               I studied advanced concepts of molecular biology and biochemistry and applied interdisciplinary methods including cell biology, bioinformatics, analytical chemistry and molecular biology.
-
          - title: Nutritional Sciences (Bachelor of Science)
           company: Friedrich-Schiller-Universität Jena (Germany)
           company_url: 'https://www.uni-jena.de/bsc-ernaehrungswissenschaften'
