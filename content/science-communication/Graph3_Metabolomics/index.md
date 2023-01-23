@@ -1,5 +1,5 @@
 ---
-title: Principles of NMR metabolomics. 
+title: Principles of NMR metabolomics 
 
 subtitle:
 
@@ -45,9 +45,17 @@ categories:
 
 ---
 
-## The Sponge Loop
+## Principles of NMR metabolomics 
 
-Sponges (Porifera) in particular, are able to significantly affect seawater biogeochemistry via the so-called ‘Sponge Loop’. In this process, dissolved organic matter (DOM) is recycled within the sponge, and made available to the surrounding organisms as particulate organic matter (POM), thus fertilizing local communities (Figure 4.1). Considering that DOM molecules are not profitable to most marine organisms, such recycling process allows DOM to re-enter in higher trophic levels, avoiding energy losses to the open ocean. Therefore, the study of filter feeders’ activity is essential and timely to estimate the status of our oceans, and to understand how these systems function.
+1) Biological samples are extracted yielding a complex metabolite mixture, which are transferred into an NMR tube 
+2) During NMR acquisition a strong homogenous magnetic field aligns the nuclear spins of the atoms present in the sample by using the same resonance frequency of the nuclei (Larmor Frequency). The nuclear spins are magnetized and resonate. After the magnetic pulse, spins ‘flip back’ to their natural state (thermal equilibrium) and their relaxation times yield a measurable signal, the free induction decay (FID). 
+3) The FID is translated via Fourier-Transformation (FT) into frequencies (Hz) and yield the final metabolomics spectrum, which can be processed and analysed for metabolite identification and abundance analyses.
 
 ## Literature
-1. De Goeij, J.M., van Oevelen, D., Vermeij, M.J.A.A., Osinga, R., Middelburg, J.J., de Goeij, A.F.P.M., Admiraal, W., 2013. Surviving in a Marine Desert: The Sponge Loop Retains Resources Within Coral Reefs. Science 342, 108–110. https://doi.org/10.1126/science.1241981
+1. Atta-Ur-Rahman, T.I., 2012. Nuclear Magnetic Resonance: Basic Principles. Springer Science & Business Media.
+
+2. Carreras, H., 2021. NMR Spectroscopy Principles, Interpreting an NMR Spectrum and Common Problems. Technology Networks.
+
+3. Diehl, P., Khetrapal, C.L., Jones, R.G., 2013. NMR Basic Principles and Progress. Grundlagen und Fortschritte. Springer Berlin Heidelberg.
+
+4. Larive, C.K., Gregory A.  Barding, J., Dinges, M.M., 2014. NMR Spectroscopy for Metabolomics and Metabolic Profiling. ACS Publications. https://doi.org/10.1021/ac504075g
