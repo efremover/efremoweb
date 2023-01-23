@@ -60,7 +60,7 @@ sections:
           icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -101,7 +101,7 @@ sections:
           date_start: '2013-10-01'
           date_end: '2016-09-31'
           description: |2-
-              During the BSc Nutritional Sciences I studied the basics of natural sciences, biomedicine, biochemistry and molecular biology, whereby I specialised in molecular nutrition. I conducted my bachelor thesis in the field of cell biology at the Center for Molecular Biomedicine (Jena) and the bioinformatics department of the BUAP (Puebla, Mexico).
+              Nutrition
     design:
       columns: '2'
   # - block: accomplishments
