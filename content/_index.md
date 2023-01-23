@@ -75,10 +75,10 @@ sections:
           company_url: 'https://szn.it/index.php/en/'
           #company_logo: 'media/logos/SZN_logo.png'
           location: Naples, IT
-          date_start: '2021-01-01'
+          date_start: '2019-01-01'
           date_end: ''
           description: |2-
-              I studied the microbial and metabolic dynamics of sponges under Ocean Acidification. I sampled two sponge species in a CO2 vent and a control site on Ischia Island (Italy) by scuba diving and then analyzed their microbial communities via Illumina Next-Generation-Sequencing. After conducting a NMR-based metabolomics workflow with OPLS-DA, I correlated microbiome and metabolome data. During an international collaboration with the Max-Planck-Institute for Marine Microbiology in Bremen (Germany), I developed a new underwater sampling method. I performed succesfully my viva examination and currently awaiting the degree.
+              I studied the microbial and metabolic dynamics of sponges under Ocean Acidification. I sampled two sponge species in a CO2 vent and a control site on Ischia Island (Italy) by scuba diving and then analyzed their microbial communities via Illumina Next-Generation-Sequencing. After conducting a NMR-based metabolomics workflow with OPLS-DA, I correlated microbiome and metabolome data. During an international collaboration with the Max-Planck-Institute for Marine Microbiology in Bremen (Germany), I developed a new underwater sampling method.
               
               Responsibilities included:
 
