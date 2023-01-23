@@ -47,11 +47,11 @@ categories:
 
 ## High-throughput purification of PCR amplicons using paramagnetic beads
 
-1) Add paramagnetic beads to your PCR sample. 
-2) The paramagnetic beads bind selectively to DNA fragments of 100bp and larger. 
-3) The paramagnetic beads and bound DNA are separated from the excess reactives by placing the tube into a magnetic rack. 
-4) Excess primers, nucleotides, salts, and enzymes are removed and the magnetic pellet is washed carefully with 70% Ethanol. 
-5) Ethanol is evaporated inside of the magnetic rack. 
-6) DNA is eluted from the paramagnetic beads with H2O. 
-7) The paramagnetic beads are separated from the aquatic DNA solution by again placing the tube into the magnetic rack. 
-8) The purified DNA solution is transferred carefully into a new tube.
+1) Add paramagnetic beads to your PCR sample
+2) The paramagnetic beads bind selectively to DNA fragments of 100bp and larger
+3) The paramagnetic beads and bound DNA are separated from the excess reactives by placing the tube into a magnetic rack
+4) Excess primers, nucleotides, salts, and enzymes are removed and the magnetic pellet is washed carefully with 70% Ethanol
+5) Ethanol is evaporated inside of the magnetic rack
+6) DNA is eluted from the paramagnetic beads with H2O
+7) The paramagnetic beads are separated from the aquatic DNA solution by again placing the tube into the magnetic rack
+8) The purified DNA solution is transferred carefully into a new tube
