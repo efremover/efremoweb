@@ -91,10 +91,12 @@ sections:
           date_start: '2016-10-01'
           date_end: '2019-06-30'
           description: |2-
-              I studied advanced concepts of molecular biology and biochemistry and applied interdisciplinary methods including cell biology, bioinformatics, analytical chemistry and molecular biology.
-                           * Supervising students
-        - title: Nutritional Sciences (Bachelor of Science)
-          subtitle: Final Grade 1.5 (A; distinction)
+              I studied advanced concepts of molecular biology and biochemistry and applied interdisciplinary methods including cell biology, bioinformatics, analytical chemistry and molecular biology. I supervised a biochemistry course for nutrional science students.
+               Responsibilities included:
+              * Preparing laboratory experiments
+              * Supervising students during lab work
+              * Teaching underlying mechanisms of different analytical techniques
+        - title: Nutritional Sciences (Bachelor of Science) 
           company: Friedrich-Schiller-Universität Jena (Germany)
           company_url: ''
           #company_logo: 'media/logos/FSU.png'
@@ -102,7 +104,7 @@ sections:
           date_start: '2013-10-01'
           date_end: '2016-06-30'
           description: |2-
-              During the BSc Nutritional Sciences I studied the basics of natural sciences, biomedicine, biochemistry and molecular biology, whereby I specialised in molecular nutrition. I conducted my bachelor thesis in the field of cell biology at the Center for Molecular Biomedicine (Jena) and the bioinformatics department of the BUAP (Puebla, Mexico). Aim of my thesis project was to reveal if homovanillic acid and it's derivatives are possibly inhibitors of the polo-like kinase 1, inducing a cell-cycle arrest and reducing cancer cell activity. Thesis "Vanilloid derivatives and polo-like kinase 1 inhibition". 
+              During the BSc Nutritional Sciences I studied the basics of natural sciences, biomedicine, biochemistry and molecular biology, whereby I specialised in molecular nutrition. I conducted my bachelor thesis in the field of cell biology at the Center for Molecular Biomedicine (Jena) and the bioinformatics department of the BUAP (Puebla, Mexico). Aim of my thesis project was to reveal if homovanillic acid and it's derivatives are possibly inhibitors of the polo-like kinase 1, inducing a cell-cycle arrest and reducing cancer cell activity. Thesis "Vanilloid derivatives and polo-like kinase 1 inhibition". Final Grade 1.5 (A; distinction)
 
     design:
       columns: '2'
