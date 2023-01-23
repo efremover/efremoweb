@@ -268,7 +268,7 @@ sections:
       title: Courses and Workshops
       filters:
         folders:
-          - event
+          - courses
     design:
       columns: '2'
       view: compact
