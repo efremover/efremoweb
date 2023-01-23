@@ -1,6 +1,12 @@
 ---
-title: Teaching Portfolio - Jana Efremova
+title: Teaching Portfolio 
+summary: 
+date: "2022-01-21T00:00:00Z"
 
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: true  # Show author profile?
+comments: false  # Show comments?
 
 ---
 
