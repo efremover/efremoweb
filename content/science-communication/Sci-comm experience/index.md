@@ -25,6 +25,7 @@ featured: false
 image:
   caption: ''
   focal_point: Smart
+
   preview_only: false
 
 authors:
@@ -46,17 +47,18 @@ categories:
 
 Sponges shape their microbial communities by acquiring symbionts through two different strategies – horizontal and vertical symbiont transmission. Vertical transmission implies that symbionts are inherited through parental gametes or brooded embryos, while horizontal transmission usually occurs through acquisition from the surrounding environment. There are generally two vertical transmission strategies from parental sponges into their offspring. Symbionts may be either transferred within eggs in oviparous sponges, or within larvae in viviparous sponges. 
 Different symbiont transmission strategies can provide beneficial traits for adaptability or acclimatization of sponge holobionts to a changing environment. While vertically transmitted microbes represent hereditable traits, environmentally acquired symbionts might provide acclimatization in the same generation.
+## Literature
+1. Bright, M., Bulgheresi, S., 2010. A complex journey: transmission of microbial symbionts. Nat Rev Microbiol 8, 218–230. https://doi.org/10.1038/nrmicro2262
 
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
+2. Ereskovsky, A.V., Gonobobleva, E., Vishnyakov, A., 2005. Morphological evidence for vertical transmission of symbiotic bacteria in the viviparous sponge Halisarca dujardini Johnston (Porifera, Demospongiae, Halisarcida). Marine Biology 146, 869–875. https://doi.org/10.1007/s00227-004-1489-1
 
-## Get Started
+3. Heath, K.D., Tiffin, P., 2009. Stabilizing Mechanisms in a Legume–Rhizobium Mutualism. Evolution 63, 652–662. https://doi.org/10.1111/j.1558-5646.2008.00582.x
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+4. Mira, A., Moran, N.A., 2002. Estimating Population Size and Transmission Bottlenecks in Maternally Transmitted Endosymbiotic Bacteria. Microb Ecol 44, 137–143. https://doi.org/10.1007/s00248-002-0012-9
+
+5. Nyholm, S.V., McFall-Ngai, M., 2004. The winnowing: establishing the squid–vibrio symbiosis. Nat Rev Microbiol 2, 632–642. https://doi.org/10.1038/nrmicro957
+
+6. Schmitt, S., Angermeier, H., Schiller, R., Lindquist, N., Hentschel, U., 2008. Molecular Microbial Diversity Survey of Sponge Reproductive Stages and Mechanistic Insights into Vertical Transmission of Microbial Symbionts. Applied and Environmental Microbiology 74, 7694–7708. https://doi.org/10.1128/AEM.00878-08
 
 ## Crowd-funded open-source software
 
@@ -70,36 +72,3 @@ As a token of appreciation for sponsoring, you can **unlock [these](https://wowc
 
 - **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
 
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-- **Page builder** - Create _anything_ with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
