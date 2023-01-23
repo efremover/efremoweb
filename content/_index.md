@@ -47,20 +47,20 @@ sections:
       title: Skills
       items:
         - name: Microbiome Bioinformatics
-          description:
+          description: QIIME2, Compositional Data Analyses
           icon: r-project
           icon_pack: fab
         - name: Molecular Biology 
-          description: 
+          description: DNA Barcoding, DNA extraction, PCR
           icon: dna
           icon_pack: fas
         - name: Biochemistry
-          description: 
+          description: Chemical extractions, Metabolomics
           icon: flask-vial
           icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
