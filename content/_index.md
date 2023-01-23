@@ -91,7 +91,7 @@ sections:
           date_start: '2016-10-01'
           date_end: '2019-06-30'
           description: |2-
-              I studied advanced concepts of molecular biology and biochemistry and applied interdisciplinary methods including cell biology, bioinformatics, analytical chemistry and molecular biology.
+              I studied advanced concepts of molecular biology and biochemistry and applied interdisciplinary methods including cell biology, bioinformatics, analytical chemistry and molecular biology. My master thesis focused on marine chemical ecology and the microbiology of sponges. Aim was to identify which metabolites correlate with different microbial groups and support sponge survival and ecological competition. This master project was conducted in an international collaboration with the Stazione Zoologica Anton Dohrn (SZN) in Naples and the Institute of Biomolecular Chemistry of the CNR in Pozzuoli, Italy. Final Grade = 1.3 (i.e. A, distinction). 
          - title: Nutritional Sciences (Bachelor of Science)
           company: Friedrich-Schiller-Universität Jena (Germany)
           company_url: 'https://www.uni-jena.de/bsc-ernaehrungswissenschaften'
@@ -100,11 +100,7 @@ sections:
           date_start: '2016-10-01'
           date_end: '2019-06-30'
           description: |2-
-              During the BSc Nutritional Sciences I studied the basics of natural sciences, biomedicine, biochemistry and molecular biology, whereby I specialised in molecular nutrition. I conducted my bachelor thesis in the field of cell biology at the Center for Molecular Biomedicine (Jena) and the bioinformatics department of the BUAP (Puebla, Mexico). Aim of my thesis project was to reveal if homovanillic acid and it's derivatives are possibly inhibitors of the polo-like kinase 1, inducing a cell-cycle arrest and as a consequence reduce cancer cell activity.
-
-Final Grade: 
-1.5 (i.e. A, distinction)
-          
+              During the BSc Nutritional Sciences I studied the basics of natural sciences, biomedicine, biochemistry and molecular biology, whereby I specialised in molecular nutrition. I conducted my bachelor thesis in the field of cell biology at the Center for Molecular Biomedicine (Jena) and the bioinformatics department of the BUAP (Puebla, Mexico). Aim of my thesis project was to reveal if homovanillic acid and it's derivatives are possibly inhibitors of the polo-like kinase 1, inducing a cell-cycle arrest and as a consequence reduce cancer cell activity. Final Grade = 1.5 (i.e. A, distinction). 
     design:
       columns: '2'
   # - block: accomplishments
