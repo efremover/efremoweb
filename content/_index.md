@@ -263,7 +263,7 @@ sections:
       columns: '2'
       view: compact
   - block: collection
-    id: courses
+    id: certificates
     content:
       title: Certificates
       filters:
