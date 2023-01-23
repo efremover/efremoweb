@@ -23,19 +23,19 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Sponges shape their microbial communities by acquiring symbionts through two different strategies – horizontal and vertical symbiont transmission. Vertical transmission implies that symbionts are inherited through parental gametes or brooded embryos, while horizontal transmission usually occurs through acquisition from the surrounding environment. There are generally two vertical transmission strategies from parental sponges into their offspring. Symbionts may be either transferred within eggs in oviparous sponges, or within larvae in viviparous sponges. 
-Different symbiont transmission strategies can provide beneficial traits for adaptability or acclimatization of sponge holobionts to a changing environment. While vertically transmitted microbes represent hereditable traits, environmentally acquired symbionts might provide acclimatization in the same generation.'
+  caption: ''
   focal_point: ''
   placement: 2
   preview_only: false
 
 authors:
   - admin
-  - 吳恩達
+
 
 tags:
   - Academic
-  - 开源
+  - Symbiosis
+  - Microbiome
 
 categories:
   - Demo
@@ -47,11 +47,10 @@ import libr
 print('hello')
 ```
 
-## Overview
+## Symbiont transmission in sponges
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+Sponges shape their microbial communities by acquiring symbionts through two different strategies – horizontal and vertical symbiont transmission. Vertical transmission implies that symbionts are inherited through parental gametes or brooded embryos, while horizontal transmission usually occurs through acquisition from the surrounding environment. There are generally two vertical transmission strategies from parental sponges into their offspring. Symbionts may be either transferred within eggs in oviparous sponges, or within larvae in viviparous sponges. 
+Different symbiont transmission strategies can provide beneficial traits for adaptability or acclimatization of sponge holobionts to a changing environment. While vertically transmitted microbes represent hereditable traits, environmentally acquired symbionts might provide acclimatization in the same generation.
 
 [![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
 
