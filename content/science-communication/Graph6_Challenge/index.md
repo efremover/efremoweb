@@ -1,11 +1,11 @@
 ---
 title: Logo Design for the Antarctic Project "Challenge"
 
-subtitle: Antarctic
+subtitle: 
 
 
 # Summary for listings and search engines
-summary: Antarctic Logo
+summary: This graphical illustration was selected as main Logo for the Antarctic Research Project "CHALLENGE" by the University of Barcelona.
 
 # Link this post with a project
 projects: []
@@ -35,9 +35,8 @@ authors:
 
 
 tags:
-  - Climate Change
+  - Logo Design
   - Antarctic Expedition
-  - Marine Ecology
 
 categories:
   - Science Communication
@@ -45,8 +44,6 @@ categories:
 
 ---
 
-## CHALLENGE
-
-Antarctica
+I designed this logo for the Antarctic Research Project "CHALLENGE" of the University of Barcelona with Prof. Conxita Àvila.
 
 
