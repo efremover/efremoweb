@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Symbiont Transmission in Marine Sponges
+subtitle: Horizontal and vertical transmission modes
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: 
 
 # Link this post with a project
 projects: []
@@ -23,7 +23,8 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: ''
+  caption: 'Sponges shape their microbial communities by acquiring symbionts through two different strategies – horizontal and vertical symbiont transmission. Vertical transmission implies that symbionts are inherited through parental gametes or brooded embryos, while horizontal transmission usually occurs through acquisition from the surrounding environment. There are generally two vertical transmission strategies from parental sponges into their offspring. Symbionts may be either transferred within eggs in oviparous sponges, or within larvae in viviparous sponges. 
+Different symbiont transmission strategies can provide beneficial traits for adaptability or acclimatization of sponge holobionts to a changing environment. While vertically transmitted microbes represent hereditable traits, environmentally acquired symbionts might provide acclimatization in the same generation.'
   focal_point: ''
   placement: 2
   preview_only: false
