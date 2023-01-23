@@ -1,6 +1,5 @@
 ---
 title: Teaching Portfolio - Jana Efremova
-cms_exclude: true
 
 
 ---
