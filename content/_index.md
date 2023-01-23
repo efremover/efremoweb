@@ -46,21 +46,21 @@ sections:
     content:
       title: Skills
       items:
-        - name: Bioinformatics
-          description: Microbiomics with R & Qiime2
+        - name: Microbiome Bioinformatics
+          description:
           icon: r-project
           icon_pack: fab
-        - name: Microbiomics
-          description: 100%
+        - name: Molecular Biology 
+          description: 
           icon: dna
           icon_pack: fas
         - name: Biochemistry
-          description: 70%
+          description: 
           icon: flask-vial
           icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -83,6 +83,7 @@ sections:
               * Conducting research
               * Managing project
               * Supervising students
+  
         - title: Biochemistry (Master of Science)
           company: Friedrich-Schiller-Universität Jena (Germany)
           company_url: 'https://www.uni-jena.de/en/msc-biochemistry'
@@ -92,6 +93,20 @@ sections:
           date_end: '2019-06-30'
           description: |2-
               I studied advanced concepts of molecular biology and biochemistry and applied interdisciplinary methods including cell biology, bioinformatics, analytical chemistry and molecular biology.
+
+         - title: Nutritional Sciences (Bachelor of Science)
+          company: Friedrich-Schiller-Universität Jena (Germany)
+          company_url: 'https://www.uni-jena.de/bsc-ernaehrungswissenschaften'
+          #company_logo: 'media/logos/FSU.png'
+          location: Jena, GE
+          date_start: '2016-10-01'
+          date_end: '2019-06-30'
+          description: |2-
+              During the BSc Nutritional Sciences I studied the basics of natural sciences, biomedicine, biochemistry and molecular biology, whereby I specialised in molecular nutrition. I conducted my bachelor thesis in the field of cell biology at the Center for Molecular Biomedicine (Jena) and the bioinformatics department of the BUAP (Puebla, Mexico). Aim of my thesis project was to reveal if homovanillic acid and it's derivatives are possibly inhibitors of the polo-like kinase 1, inducing a cell-cycle arrest and as a consequence reduce cancer cell activity. Thesis title /: "Thesis Metabolic Responses In Competing Corals and Sponges under Manipulated Microbiome Distress". Final Grade /: 1.5 (i.e. A, distinction).
+
+
+Final Grade: 
+1.5 (i.e. A, distinction)
           
     design:
       columns: '2'
