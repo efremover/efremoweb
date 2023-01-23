@@ -2,7 +2,10 @@
 title: Photoprotection in marine Antarctic ecosystems
 summary: CHALLENGE - Human pressures and natural hazards. Challenges for the antarctic marine benthos.
 tags:
-  - Antarctica
+  - Antarctic Expedition
+  - Climate Change Research
+  - UV-protective compounds
+  - Microbiome Manipulation
 date: '2023-01-22T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
