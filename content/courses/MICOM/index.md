@@ -24,7 +24,7 @@ all_day: true
 publishDate: "2022-02-14T00:00:00Z"
 
 authors: []
-tags: [microbial communication]
+tags: [microbial communication, mass spectrometry]
 
 # Is this a featured talk? (true/false)
 featured: true
