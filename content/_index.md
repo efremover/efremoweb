@@ -47,15 +47,15 @@ sections:
       title: Skills
       items:
         - name: Microbiome Bioinformatics
-          description: Analyses of Next-Generation Sequencing
-          icon: r-project
-          icon_pack: fab
-        - name: Microbiomics
-          description: 100%
+          description: Analyses of Next-Generation-Sequencing Data
           icon: dna
           icon_pack: fas
+        - name: Science Communication
+          description: Graphical Illustrations & Scientific Talks
+          icon: paint-brush
+          icon_pack: fas
         - name: Biochemistry
-          description: 70%
+          description: Chemical Extractions & Metabolomics
           icon: flask-vial
           icon_pack: fas
   - block: experience
