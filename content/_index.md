@@ -78,10 +78,13 @@ sections:
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
+              I studied the Microbiome and Metabolome of sponges under Ocean Acidification. 
               Responsibilities include:
 
-              * Conducting research
-              * Managing project
+              * Managing research project
+              * International collaborations
+              * Raise funding
+              * Scuba Diving for sampling and in situ experiments
               * Supervising students
         - title: Biochemistry (Master of Science)
           company: Friedrich-Schiller-Universität Jena (Germany)
