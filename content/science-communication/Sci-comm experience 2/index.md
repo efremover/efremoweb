@@ -3,7 +3,7 @@ title: The Sponge Loop
 subtitle: Marine nutrient recycling to higher trophic levels
 
 # Summary for listings and search engines
-summary: 
+summary: Graphical Illustration by Jana Efremova using Biorender and Illustrator
 
 # Link this post with a project
 projects: []
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Graphical Illustration by Jana Efremova. (Software: Biorender and Illustrator)'
+  caption: ''
   focal_point: Smart
 
   preview_only: false
