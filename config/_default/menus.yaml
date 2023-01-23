@@ -25,7 +25,7 @@ main:
   - name: SciCom
     url: '#science-communication'
     weight: 70
-  - name: courses
+  - name: Courses
     url: '#courses'
     weight: 80
   - name: Contact
