@@ -47,7 +47,8 @@ sections:
       title: Skills
       items:
         - name: Microbiome Bioinformatics
-          description: Microbiomics with R & Qiime2
+          description: Analyses of Next-Generation Sequencing data
+          Compositional Data Analyses
           icon: r-project
           icon_pack: fab
         - name: Microbiomics
