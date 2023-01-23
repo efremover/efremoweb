@@ -75,7 +75,7 @@ sections:
           company_url: ''
           #company_logo: 'media/logos/SZN_logo.png'
           location: Naples, IT
-          date_start: '2021-01-01'
+          date_start: '2019-10-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -89,7 +89,7 @@ sections:
           #company_logo: 'media/logos/FSU.png'
           location: Jena, GE
           date_start: '2016-10-01'
-          date_end: '2019-06-30'
+          date_end: '2019-05-31'
           description: |2-
               I studied advanced concepts of molecular biology and biochemistry and applied interdisciplinary methods including cell biology, bioinformatics, analytical chemistry and molecular biology.
                            * Supervising students
@@ -99,7 +99,7 @@ sections:
           #company_logo: 'media/logos/FSU.png'
           location: Jena, GE
           date_start: '2013-10-01'
-          date_end: '2016-06-30'
+          date_end: '2016-09-31'
           description: |2-
               Nutrition
     design:
