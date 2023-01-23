@@ -92,15 +92,6 @@ sections:
           date_end: '2019-06-30'
           description: |2-
               I studied advanced concepts of molecular biology and biochemistry and applied interdisciplinary methods including cell biology, bioinformatics, analytical chemistry and molecular biology.
-         - title: Nutrition (Master of Science)
-          company: Friedrich-Schiller-Universität Jena (Germany)
-          company_url: 'https://www.uni-jena.de/en/msc-biochemistry'
-          #company_logo: 'media/logos/FSU.png'
-          location: Jena, GE
-          date_start: '2016-10-01'
-          date_end: '2019-06-30'
-          description: |2-
-              I studied advanced concepts of molecular biology and biochemistry and applied interdisciplinary methods including cell biology, bioinformatics, analytical chemistry and molecular biology.
     design:
       columns: '2'
   # - block: accomplishments
