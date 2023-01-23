@@ -78,11 +78,12 @@ sections:
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
-              I studied the Microbiome and Metabolome of sponges under Ocean Acidification. 
+              I studied the microbial and metabolic dynamics of sponges under Ocean Acidification. I sampled two sponge species in a CO2 vent and a control site on Ischia Island (Italy) by scuba diving and then analyzed their microbial communities via Illumina Next-Generation-Sequencing. After conducting a NMR-based metabolomics workflow with OPLS-DA, I correlated microbiome and metabolome data. During a international collaboration with the Max-Planck-Institute for Marine Microbiology in Bremen (Germany), I developed a new underwater sampling method.
               Responsibilities include:
 
               * Managing research project
               * International collaborations
+              * Design of a new underwater sampling technique (patent pending)
               * Raise funding
               * Scuba Diving for sampling and in situ experiments
               * Supervising students
