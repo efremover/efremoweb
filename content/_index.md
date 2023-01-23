@@ -91,7 +91,11 @@ sections:
           date_start: '2016-10-01'
           date_end: '2019-06-30'
           description: |2-
-              I studied advanced concepts of molecular biology and biochemistry and applied interdisciplinary methods including cell biology, bioinformatics, analytical chemistry and molecular biology. My master thesis focused on marine chemical ecology and the microbiology of sponges. Aim was to identify which metabolites correlate with different microbial groups and support sponge survival and ecological competition. This master project was conducted in an international collaboration with the Stazione Zoologica Anton Dohrn (SZN) in Naples and the Institute of Biomolecular Chemistry of the CNR in Pozzuoli, Italy.
+              I studied advanced concepts of molecular biology and biochemistry and applied interdisciplinary methods including cell biology, bioinformatics, analytical chemistry and molecular biology. I supervised a biochemistry course for nutrional science students.
+               Responsibilities included:
+              * Preparing laboratory experiments
+              * Supervising students during lab work
+              * Teaching underlying mechanisms of different analytical techniques
         - title: Nutritional Sciences (Bachelor of Science) 
           company: Friedrich-Schiller-Universität Jena (Germany)
           company_url: ''
