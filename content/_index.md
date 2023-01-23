@@ -101,7 +101,7 @@ sections:
           date_start: '2013-10-01'
           date_end: '2016-09-31'
           description: |2-
-              During the BSc Nutritional Sciences I studied the basics of natural sciences, biomedicine, biochemistry and molecular biology, whereby I specialised in molecular nutrition. I conducted my bachelor thesis in the field of cell biology at the Center for Molecular Biomedicine (Jena) and the bioinformatics department of the BUAP (Puebla, Mexico). Aim of my thesis project was to reveal if homovanillic acid and it's derivatives are possibly inhibitors of the polo-like kinase 1, inducing a cell-cycle arrest and as a consequence reduce cancer cell activity. 
+              During the BSc Nutritional Sciences I studied the basics of natural sciences, biomedicine, biochemistry and molecular biology, whereby I specialised in molecular nutrition. I conducted my bachelor thesis in the field of cell biology at the Center for Molecular Biomedicine (Jena) and the bioinformatics department of the BUAP (Puebla, Mexico).
     design:
       columns: '2'
   # - block: accomplishments
