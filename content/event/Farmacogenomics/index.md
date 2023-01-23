@@ -1,5 +1,5 @@
 ---
-title: Microbial and Metabolic Trends as Health Indicators in Marine Sponges – Insights from our Earliest Metazoan Ancestors
+title: University Lecture. Microbial and Metabolic Trends as Health Indicators in Marine Sponges – Insights from our Earliest Metazoan Ancestors
 
 event: Pharmagogenomics course for Veterinary Students 
 event_url: 

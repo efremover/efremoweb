@@ -1,5 +1,5 @@
 ---
-title: Adaptive Traits in sponge holobionts under Ocean Acidification
+title: Conference Talk. Adaptive Traits in sponge holobionts under Ocean Acidification
 
 event: European Society for Comparative Physiology and Biochemistry 2022
 event_url: http://www.escpb2022.eu/
