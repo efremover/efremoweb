@@ -38,12 +38,12 @@ education:
     - course: PhD in Life, Health and Chemical Sciences (Marine Ecology)
       institution: SZN, Naples, IT / Open University, UK
       year: 2023 (Current)
-    - course: MSc in Biochemistry, 2016 - 2018
+    - course: MSc in Biochemistry, 2016 - 2019
       institution: CNR Biochemistry, Pozzuoli, IT / Friedrich-Schiller University, Jena, DE
-      year: 2020
-    - course: BSc in Nutrition Science
+      year: 2019
+    - course: BSc in Nutrition Science, 2013-2016
       institution: Friedrich Schiller University, Jena, DE
-      year: 2017
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
