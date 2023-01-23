@@ -72,7 +72,7 @@ sections:
       items:
         - title: Doctoral Researcher
           company: Stazione Zoologica Anton Dohrn
-          company_url: ''
+          company_url: 'https://szn.it/index.php/en/'
           #company_logo: 'media/logos/SZN_logo.png'
           location: Naples, IT
           date_start: '2021-01-01'
@@ -98,7 +98,7 @@ sections:
               * Teaching underlying mechanisms of different analytical techniques
         - title: Nutritional Sciences (Bachelor of Science) 
           company: Friedrich-Schiller-Universität Jena (Germany)
-          company_url: ''
+          company_url: 'https://www.uni-jena.de/bsc-ernaehrungswissenschaften'
           #company_logo: 'media/logos/FSU.png'
           location: Jena, GE
           date_start: '2013-10-01'
