@@ -42,7 +42,7 @@ For this project we collected the HMA sponge _Chondrosia reniformis_ and the LMA
 
 {{< figure src="spira.jpg" caption="The Low-Microbial-Abundance sponge _Spirastrella cunctatrix_ (Photo by Alberto Colletti)" numbered="true" >}}
 
-During my PhD, I further developed a new in situ sampling methodology to expand within organismal acclimatization processes towards biochemical exchanges with the environment. The study of inhaled and exhaled water fluxes of filter-feeders was improved using a submarine peristaltic pump and tested on _C. reniformis_. This new method can be applied for a variety of ecology research topics, such as nutrient cycling, filter-feeding fluxes, plankton dynamics and seawater metabolomics. 
+During my PhD, I further developed a new _in situ_ sampling methodology to expand our knowledge of organismal acclimatization processes towards biochemical exchanges with the environment. The produced sampling device aims at facilitating the study of inhaled and exhaled water fluxes of filter-feeders, such as our test sponge _C. reniformis_. This method can be applied for a variety of ecology research topics, such as nutrient cycling, plankton dynamics and seawater metabolomics. 
 
 {{< figure src="method.png" caption="Underwater sampling method developed to collect inhaled and exhaled water samples from filter-feeders such as sponges" numbered="true" >}}
 
