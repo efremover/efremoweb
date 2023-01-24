@@ -3,9 +3,7 @@
 title:
 date: 2022-10-24
 type: landing
-banner:
-  image: "header.png"
-  caption: "Photo by Alberto Colletti"
+
 
 sections:
   # - block: hero
