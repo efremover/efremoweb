@@ -96,10 +96,11 @@ sections:
           date_start: '2016-10-01'
           date_end: '2019-06-30'
           description: |2-
-              I studied advanced concepts of molecular biology and biochemistry and applied interdisciplinary methods including cell biology, bioinformatics, analytical chemistry and molecular biology. Final Grade 1.3 (A; distinction) I supervised a biochemistry course for nutrional science students.
+              I studied advanced concepts of molecular biology and biochemistry and applied interdisciplinary methods including cell biology, bioinformatics, analytical chemistry and molecular biology. Final Grade 1.3 (A; distinction).
 
                Responsibilities included:
 
+              * Teaching aid during a "biochemistry lab course for nutrition scientists"
               * Preparing laboratory experiments
               * Supervising students during lab work
               * Teaching underlying mechanisms of different analytical techniques
