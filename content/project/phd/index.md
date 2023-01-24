@@ -46,7 +46,7 @@ During my PhD, I further developed a new in situ sampling methodology to expand 
 
 {{< figure src="method.png" caption="Underwater sampling method developed to collect inhaled and exhaled water samples from filter-feeders such as sponges" numbered="true" >}}
 
-The following visualizes the water flow through the sponge _Chondrosia reniformis_ due to its constant pumping activity. The coloured water is inhaled through little pores on the sponge surface, called ostia, and is exhaled through the so-called oscula. During this water filtration process numerous biochemical and microbial processes take place:
+The following video visualizes the water flow through the sponge _Chondrosia reniformis_ due to its constant pumping activity. The coloured water is inhaled through little pores on the sponge surface, called ostia, and is exhaled through the so-called oscula. During this water filtration process numerous biochemical and microbial processes take place:
 
 {{< video src="fluoshort.mp4" controls="yes" >}}
 
