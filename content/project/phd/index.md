@@ -39,7 +39,7 @@ For this project we collected the HMA sponge Chondrosia reniformis and the LMA s
 
 To expand within organismal acclimatization processes towards biochemical exchanges with the environment, I developed a new in situ sampling methodology. The study of inhaled and exhaled water fluxes of filter-feeders was improved using a submarine peristaltic pump and tested on C. reniformis. This new method can be applied for a variety of ecology research topics, such as nutrient cycling, filter-feeding fluxes, plankton dynamics and seawater metabolomics.
 
-{{< video src="fluoshort.mp4" controls="yes" >}}
+{{< video src="fluoshort.mp4" controls="yes" caption="Fluorescent water visualizes the water flow through the sponge due to its constant pumping activity. The coloured water is inhaled through little pores on the sponge surface, called ostia, and is exhaled through the so-called oscula." numbered="true" >}}
 
 
 In this PhD project, diverse OA acclimatization strategies of two Porifera species co-occurring in a CO2 vent system are compared, based on microbiome and metabolic patterns. Further, parallel studies of biochemical exchanges with seawater are key to reconstruct these adaptation mechanisms.
