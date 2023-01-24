@@ -37,8 +37,7 @@ links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
- url: https://www.lifewatchitaly.eu/en/2020/12/02/envri-community-winter-school-2021/
-
+ url: "https://www.lifewatchitaly.eu/en/2020/12/02/envri-community-winter-school-2021/"
 
 
 # Markdown Slides (optional).
