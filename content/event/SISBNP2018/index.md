@@ -2,7 +2,7 @@
 title: Metabolic responses In competing corals and sponges under manipulated microbiome distress (Conference Talk)
 
 event: 4th Sino-Italian Symposium on Bioactive Natural Products (SISBNP) 2018
-event_url: https://sites.google.com/uniupo.it/sinoitalian2018/congress
+event_url:
 
 location: Accademia di Medicina, Turin (Italy)
 #address:
