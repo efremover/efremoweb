@@ -59,3 +59,5 @@ url_video: ""
 #projects = []
 #- example
 ---
+
+{{< figure src="omacc.jpeg" caption="OMaCC Workshop" numbered="true" >}}
