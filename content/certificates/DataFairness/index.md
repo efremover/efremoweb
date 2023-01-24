@@ -2,7 +2,7 @@
 title: Data Fairness (International Winter School)
 
 event: 
-event_url:  https://www.lifewatchitaly.eu/en/2020/12/02/envri-community-winter-school-2021/
+event_url: https://www.lifewatchitaly.eu/en/2020/12/02/envri-community-winter-school-2021/
 
 location: Remote
 #address:
@@ -38,10 +38,9 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/Jana91205020
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+url_code: https://www.lifewatchitaly.eu/en/2020/12/02/envri-community-winter-school-2021/
+
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
