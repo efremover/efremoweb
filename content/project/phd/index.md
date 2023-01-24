@@ -4,6 +4,9 @@ summary: My PhD work concerns how the symbiotic sponge microbiome contributes to
 tags:
   - Porifera
 date: '2023-01-22T00:00:00Z'
+banner:
+  image: "header.png"
+  caption: "Photo by Alberto Colletti"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
