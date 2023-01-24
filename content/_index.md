@@ -303,10 +303,10 @@ sections:
       #  - ''
       #  - ''
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: Tweeting here
-          link: 'https://twitter.com/Jana91205020'
+        # - icon: twitter
+        #   icon_pack: fab
+        #   name: Tweeting here
+        #   link: 'https://twitter.com/Jana91205020'
         # - icon: skype
         #   icon_pack: fab
         #   name: Skype Me
