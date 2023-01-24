@@ -4,7 +4,7 @@ title: Data Fairness (International Winter School)
 event: 
 event_url:  https://www.lifewatchitaly.eu/en/2020/12/02/envri-community-winter-school-2021/
 
-location: Remote, Jena (Germany)
+location: Remote
 #address:
 #  street: Accademia di Medicina
 #  city: Turin
@@ -24,7 +24,7 @@ all_day: true
 publishDate: "2022-02-14T00:00:00Z"
 
 authors: []
-tags: [microbial communication, mass spectrometry]
+tags: [research management, data management]
 
 # Is this a featured talk? (true/false)
 featured: true

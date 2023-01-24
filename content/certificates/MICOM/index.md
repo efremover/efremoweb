@@ -12,7 +12,7 @@ location: Remote, Jena (Germany)
 #  postcode: '94305'
 #  country: Italy
 
-summary: This course was related to microbial communication and included sessions about chemical ecology, natural product research and environment. I participated in a mass spectrometry workshops during this conference.
+summary: This course was related to microbial communication and included sessions about chemical ecology, natural product research and environment. I participated in a mass spectrometry workshop during this conference.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

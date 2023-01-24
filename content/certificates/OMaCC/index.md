@@ -24,7 +24,7 @@ all_day: true
 publishDate: "2022-02-14T00:00:00Z"
 
 authors: []
-tags: [marine biology, technology, research infrastructure]
+tags: [marine biology, climate change, CO2 vents, ocean acidification]
 
 # Is this a featured talk? (true/false)
 featured: true
