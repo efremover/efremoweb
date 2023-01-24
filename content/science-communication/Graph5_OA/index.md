@@ -49,7 +49,7 @@ categories:
 
 CO2 emissions by human activities such as the burning of fossil fuels, cement industry and transportation. CO2 is partly absorbed by the oceans causing the increase in free hydrogen, which causes a drop in pH. Carbonate concentrations, necessary for reef-building organisms to build their calcareous shells simultaneously decrease. Plants are able to sequester CO2 from the environment and produce oxygen and sugars during photosynthesis. Since 1850 the pH decreased from 8.2 to 8.1. If emissions are not drastically reduced, the pH will further drop according to the future scenario RCP8.5. Aggressive reductions may result in a trajectory visualized in RCP2.6. Ocean acidification (OA) represents a threat to marine ecosystems, and benthic organisms must develop adaptive strategies. Marine sponges are often forecasted as winner taxa, yet, we lack holistic understanding of stress tolerance and positive acclimatization. 
 
-## Publication
+## Literature
 1. Gattuso, J.-P., Hansson, L. (Eds.), 2011. Ocean acidification. Oxford University Press, Oxford ; New York.
  
 3. Gattuso, J.-P. et al. 2015. Contrasting futures for ocean and society from different anthropogenic CO2 emissions scenarios. Science 349, aac4722. https://doi.org/10.1126/science.aac4722
