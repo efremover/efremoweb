@@ -1,7 +1,7 @@
 ---
 title: Data Fairness (International Winter School)
 
-event: 
+event: Data Fairness
 event_url: https://www.lifewatchitaly.eu/en/2020/12/02/envri-community-winter-school-2021/
 
 location: Remote
@@ -37,7 +37,7 @@ links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
- url: "https://www.lifewatchitaly.eu/en/2020/12/02/envri-community-winter-school-2021/"
+
 
 
 # Markdown Slides (optional).

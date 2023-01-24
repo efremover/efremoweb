@@ -1,7 +1,7 @@
 ---
 title: Deutschlandstipendium - German Scholarship
 
-event: 
+event: Deutschlandstipendium
 event_url: https://www.deutschlandstipendium.de/deutschlandstipendium/de/services/english/english_node.html
 
 location: Jena (Germany)

@@ -1,7 +1,7 @@
 ---
 title: Learning how human-generated carbon dioxide could reshape oceans - lessons from volcanic CO2 vents (International Workshop)
 
-event: 
+event: OMaCC workshop
 event_url: https://wp.ull.es/omacc/events/international-workshop-25th-29th-of-july-2022-la-palma-island-canary-islands/ 
 
 location: La Palma (Canary Islands)
