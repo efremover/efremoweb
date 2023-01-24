@@ -14,7 +14,7 @@ date: '2023-01-22T00:00:00Z'
 external_link: ''
 
 image:
-  caption: In the field
+  caption: Testing my new developed sampling method in the field
   focal_point: Smart
 
 links:
@@ -42,12 +42,9 @@ For this project we collected the HMA sponge _Chondrosia reniformis_ and the LMA
 
 {{< figure src="spira.jpg" caption="The Low-Microbial-Abundance sponge _Spirastrella cunctatrix_ (Photo by Alberto Colletti)" numbered="true" >}}
 
-To expand within organismal acclimatization processes towards biochemical exchanges with the environment, I developed a new in situ sampling methodology. The study of inhaled and exhaled water fluxes of filter-feeders was improved using a submarine peristaltic pump and tested on C. reniformis. This new method can be applied for a variety of ecology research topics, such as nutrient cycling, filter-feeding fluxes, plankton dynamics and seawater metabolomics.
+To expand within organismal acclimatization processes towards biochemical exchanges with the environment, I developed a new in situ sampling methodology. The study of inhaled and exhaled water fluxes of filter-feeders was improved using a submarine peristaltic pump and tested on _C. reniformis_. This new method can be applied for a variety of ecology research topics, such as nutrient cycling, filter-feeding fluxes, plankton dynamics and seawater metabolomics.
 
 In the following video I coloured seawater with fluorescein to visualize the water flow through the sponge due to its constant pumping activity. The coloured water is inhaled through little pores on the sponge surface, called ostia, and is exhaled through the so-called oscula. During this water filtration process numerous biochemical and microbial processes take place:
 
 {{< video src="fluoshort.mp4" controls="yes" >}}
 
-
-
-{{< figure src="sampling.jpg" caption="Sampling of sponge specimens by scuba diving" numbered="true" >}}
