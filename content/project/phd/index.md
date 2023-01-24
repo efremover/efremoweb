@@ -36,16 +36,18 @@ url_video: ''
 ---
 
 Ocean acidification (OA) represents a threat to marine ecosystems, and benthic organisms must develop adaptive strategies. Marine sponges are often forecasted as winner taxa, yet, we lack holistic understanding of stress tolerance and positive acclimatization. Sponges can be categorized into high and low microbial abundance (HMA and LMA) species, which may adopt divergent strategies to maintain homeostasis and fitness under changing conditions. 
-For this project we collected the HMA sponge Chondrosia reniformis and the LMA sponge Spirastrella cunctatrix from a natural CO2 vent system and a control pH site (Ischia, Italy). Adaptive traits were investigated by comparing microbial and metabolic shifts in sponge holobionts. I analyzed Illumina Next-Generation-Sequencing 16S rRNA data to reveal differences in microbiome composition under OA and estimate possible impacts on sponge health. Furthermore, I extracted sponge specimens chemically for NMR metabolomics and revealed significantly dysregulated metabolites with correlation to specific microbial taxa.
+For this project we collected the HMA sponge _Chondrosia reniformis_ and the LMA sponge _Spirastrella cunctatrix_ from a natural CO2 vent system and a control pH site (Ischia, Italy). Adaptive traits were investigated by comparing microbial and metabolic shifts in sponge holobionts. I analyzed Illumina Next-Generation-Sequencing 16S rRNA data to reveal differences in microbiome composition under OA and estimate possible impacts on sponge health. Furthermore, I extracted sponge specimens chemically for NMR metabolomics and revealed significantly dysregulated metabolites with correlation to specific microbial taxa.
 
-{{< figure src="chon.jpg" caption="The High-Microbial-Abundance sponge Chondrosia reniformis (Photo by Alberto Colletti)" numbered="true" >}}
+{{< figure src="chon.jpg" caption="The High-Microbial-Abundance sponge _Chondrosia reniformis_ (Photo by Alberto Colletti)" numbered="true" >}}
 
-{{< figure src="spira.jpg" caption="The Low-Microbial-Abundance sponge Spirastrella cunctatrix (Photo by Alberto Colletti)" numbered="true" >}}
+{{< figure src="spira.jpg" caption="The Low-Microbial-Abundance sponge _Spirastrella cunctatrix_ (Photo by Alberto Colletti)" numbered="true" >}}
 
 To expand within organismal acclimatization processes towards biochemical exchanges with the environment, I developed a new in situ sampling methodology. The study of inhaled and exhaled water fluxes of filter-feeders was improved using a submarine peristaltic pump and tested on C. reniformis. This new method can be applied for a variety of ecology research topics, such as nutrient cycling, filter-feeding fluxes, plankton dynamics and seawater metabolomics.
 
 In the following video I coloured seawater with fluorescein to visualize the water flow through the sponge due to its constant pumping activity. The coloured water is inhaled through little pores on the sponge surface, called ostia, and is exhaled through the so-called oscula. During this water filtration process numerous biochemical and microbial processes take place:
 
 {{< video src="fluoshort.mp4" controls="yes" >}}
+
+
 
 {{< figure src="sampling.jpg" caption="Sampling of sponge specimens by scuba diving" numbered="true" >}}
