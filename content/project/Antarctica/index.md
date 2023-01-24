@@ -33,4 +33,7 @@ url_video: ''
 # slides: example
 ---
 
-Antarctic marine organisms are expected to contain some photoprotective compounds for UV-avoidance. These compounds are likely to appear in different relative concentrations depending on the light exposure and pigmentation of the marine organism. It is further likely that compound production varies under diverse microbiome conditions. Some of these compounds will be isolated and tested in a cosmeceutical pipeline for the development of skin care UV-protective products. I am honoured to participate in this Antarctic expedition to perform related experiments in February 2023. I am further happy that my graphics design was selected as the main logo for this project.
+Antarctic marine organisms are expected to contain some photoprotective compounds for UV-avoidance. These compounds are likely to appear in different relative concentrations depending on the light exposure and pigmentation of the marine organism. It is further likely that compound production varies under diverse microbiome conditions. Some of these compounds will be isolated and tested in a cosmeceutical pipeline for the development of skin care UV-protective products. I am honoured to participate in this Antarctic expedition to perform related experiments in February 2023.
+
+{{< figure src="challenge.jpg" caption="Logo designed by Jana Efremova was selected as main logo for the CHALLENGE antarctic project)" numbered="true" >}}
+
