@@ -1,8 +1,13 @@
 ---
 title: Microbial and Metabolic Interactions in Sponges under Ocean Acidification
-summary: My PhD work concerns how the symbiotic sponge microbiome contributes to adaptive strategies to cope with environmental stressors, such as anthropogenic ocean acidification.
+summary: My PhD work concerns how the symbiotic sponge microbiome contributes to adaptive strategies to acclimatize to environmental stressors, such as ocean acidification. Correlating this microbiome data with metabolomics results helps painting a broader picture of organismal response and health.
+
 tags:
   - Porifera
+  - Microbiome and Health
+  - Metabolomics
+  - Seawater Biochemistry
+  - Nutritional Cycling
 date: '2023-01-22T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -39,9 +44,8 @@ For this project we collected the HMA sponge Chondrosia reniformis and the LMA s
 
 To expand within organismal acclimatization processes towards biochemical exchanges with the environment, I developed a new in situ sampling methodology. The study of inhaled and exhaled water fluxes of filter-feeders was improved using a submarine peristaltic pump and tested on C. reniformis. This new method can be applied for a variety of ecology research topics, such as nutrient cycling, filter-feeding fluxes, plankton dynamics and seawater metabolomics.
 
-{{< video src="fluoshort.mp4" controls="yes" caption="Fluorescent water visualizes the water flow through the sponge due to its constant pumping activity. The coloured water is inhaled through little pores on the sponge surface, called ostia, and is exhaled through the so-called oscula." numbered="true" >}}
+In the following video I coloured seawater with fluorescein to visualize the water flow through the sponge due to its constant pumping activity. The coloured water is inhaled through little pores on the sponge surface, called ostia, and is exhaled through the so-called oscula. During this water filtration process numerous biochemical and microbial processes take place:
 
-
-In this PhD project, diverse OA acclimatization strategies of two Porifera species co-occurring in a CO2 vent system are compared, based on microbiome and metabolic patterns. Further, parallel studies of biochemical exchanges with seawater are key to reconstruct these adaptation mechanisms.
+{{< video src="fluoshort.mp4" controls="yes" >}}
 
 {{< figure src="sampling.jpg" caption="Sampling of sponge specimens by scuba diving" numbered="true" >}}
