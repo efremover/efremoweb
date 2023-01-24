@@ -288,7 +288,7 @@ sections:
       text: |-
         Contact information.
       # Contact (add or remove contact options as necessary)
-      #email: test@example.org
+      email: janaefremova@gmail.com
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       #address:
