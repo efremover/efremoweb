@@ -44,8 +44,6 @@ For this project we collected the HMA sponge _Chondrosia reniformis_ and the LMA
 
 During my PhD, I further developed a new _in situ_ sampling methodology to expand our knowledge of organismal acclimatization processes towards biochemical exchanges with the environment. The produced sampling device aims at facilitating the study of inhaled and exhaled water fluxes of filter-feeders, such as our test sponge _C. reniformis_. This method can be applied for a variety of ecology research topics, such as nutrient cycling, plankton dynamics and seawater metabolomics. 
 
-{{< figure src="method.png" caption="Graphical representation of the underwater sampling method developed to collect inhaled and exhaled water samples from filter-feeders such as sponges" numbered="true" >}}
-
 The following video visualizes the water flow through the sponge _Chondrosia reniformis_ due to its constant pumping activity. The coloured water is inhaled through little pores on the sponge surface, called ostia, and is exhaled through the so-called oscula. During this water filtration process numerous biochemical and microbial processes take place:
 
 {{< video src="fluoshort.mp4" controls="yes" >}}
