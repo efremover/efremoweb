@@ -24,12 +24,12 @@ organizations:
     url: https://www.open.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include microbiomics, metabolomics and their impact on organismal health.
+bio: My research interests include environmental research, ecology and health.
 
 # Interests to show in About widget
 interests:
-  - Microbiome and Health
-  - Metabolomics
+  - Climate Change Research
+  - Sustanability
   - Nutrition Science
 
 # Education to show in About widget
@@ -82,5 +82,5 @@ email: 'janaefremova@gmail.com'
 highlight_name: true
 ---
 
-I am a PhD student researching the impact of ocean acidification, a mainly anthropogenic driven environmental stressors, on marine ecosystem stabilities at the Stazione Zoologica Anton Dohrn. In particular, I am analyzing the microbiome composition and chemical ecology of marine sponges and their impact on nutritional cycles. My research interests include microbiomics, metabolomics, chemical ecology, biochemistry and nutrition. My academic specialisation is focused on nutritional sciences and biochemistry, however my current PhD position allowed me an interdisciplinary integration of my knowledge and a contribution to Climate Change research. I successfully defended my PhD thesis in my viva examination and I am currently searching a PostDoc position, a research management role or a lecturing position in related scientific fields.
+During my PhD I researched the impact of ocean acidification, a mainly anthropogenic driven environmental stressors, on marine ecosystems at the Stazione Zoologica Anton Dohrn. In particular, I analyzed the microbiome composition and chemical ecology of marine sponges and their impact on nutritional cycles. My research interests include chemical ecology, ecosystem stability, biochemistry and nutrition. My academic specialisation is focused on nutritional sciences and biochemistry, however my current PhD position allowed me an interdisciplinary integration of my knowledge and a contribution to Climate Change research. I successfully defended my PhD thesis in my viva examination and I am currently searching a new position in related scientific fields.
 {style="text-align: justify;"}
