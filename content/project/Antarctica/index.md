@@ -37,12 +37,12 @@ Antarctic marine organisms are expected to contain some photoprotective compound
 
 {{< figure src="challenge.png" caption="Logo designed by Jana Efremova for the CHALLENGE Antarctic Project" numbered="true" >}}
 
-The spanish research base Juan Carlos I is situated on Livingston Island and allows the realization of this project. In outdoor aquaria we are investigating the response of an antarctic sponge and ascidian species to microbiome disress and UV exposure. 
+The spanish research base Juan Carlos I is situated on Livingston Island and allows the realization of this project. In outdoor aquaria we are investigating the response of an antarctic sponge and ascidian species to microbiome distress and UV exposure. 
 
 {{< figure src="jana_base.png" caption="Research Base Juan Carlos I" numbered="true" >}}
 
 
-{{< figure src="aquarium_antarctica.png" caption="outdoor Aquaria with the sponge genus Hemigellius and th ascidian Cnemidocarpa" numbered="true" >}}
+{{< figure src="aquarium_antarctica.png" caption="outdoor Aquaria with the sponge genus Hemigellius and the ascidian Cnemidocarpa" numbered="true" >}}
 
 
 
